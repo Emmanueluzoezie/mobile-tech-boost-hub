@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MobileTechbooster",
+    "slug": "MobileTechbooster",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MobileTechbooster"
+}
