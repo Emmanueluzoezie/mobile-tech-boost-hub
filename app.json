@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e62138b1-e2c5-4c33-bb20-414006ef3747"
+      }
+    }
   },
   "name": "MobileTechbooster"
 }
